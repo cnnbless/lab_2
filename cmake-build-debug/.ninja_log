@@ -1,0 +1,7 @@
+# ninja log v5
+1	132	7300702763053856	build.ninja	1ecfc24dec94a606
+3	552	7300698495339573	CMakeFiles/OOP_lab2.dir/main.cpp.obj	23e9197cf3bd0541
+15	589	7300698495706190	CMakeFiles/OOP_lab2.dir/Optical.cpp.obj	153075a3b46a3b82
+11	603	7300698495857321	CMakeFiles/OOP_lab2.dir/Mechanic.cpp.obj	1151e4cb1f13bff
+641	749	7300698497245387	OOP_lab2.exe	bbf879bd23d26545
+7	640	7300698496230274	CMakeFiles/OOP_lab2.dir/Membrane.cpp.obj	e1e3343f25d64a52
